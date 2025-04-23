@@ -1,4 +1,4 @@
 # Sentiment-Smartphone-Reviews-Tiki
 
-Dự án phân tích cảm xúc trên các đánh giá sản phẩm điện thoại thông minh từ nền tảng thương mại điện tử Tiki. Dự án sử dụng các mô hình LSTM và Naive Bayes để phân loại cảm xúc của người dùng. 
-Dữ liệu được thu thập qua API của Tiki và xử lý bằng Python nhằm đưa ra những thông tin chi tiết về mức độ hài lòng của khách hàng.
+The project analyzes sentiments on smartphone product reviews from the e-commerce platform Tiki. The project uses LSTM and Naive Bayes models to classify user sentiments.
+The data is collected via Tiki's API and processed in Python to provide detailed information about customer satisfaction.
